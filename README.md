@@ -1,1 +1,1 @@
-My direcory readme
+My edited readme file
